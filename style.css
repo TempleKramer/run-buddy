@@ -37,9 +37,9 @@ header nav ul li {
 }
 
 header nav ul li a {
-    margin: 0 18px;
+    margin: 0 16px;
     font-weight: lighter;
-    font-size: 25px;
+    font-size: 18px;
 }
 
 footer {
@@ -65,13 +65,18 @@ footer a {
     color: #024e76;
 }
 
+
 .hero {
     background-image: url("../run-buddy/assets/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
     position: relative;
+    text-align: center;
 }
+
+
+
 
 .hero-form {
     border: 3px solid #024e76;
